@@ -1,0 +1,16 @@
+Jun 27, 2011 8:30:18 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-43055
+Jun 27, 2011 8:30:18 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 313 ms
+Jun 27, 2011 8:30:18 AM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Jun 27, 2011 8:30:18 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Jun 27, 2011 8:30:18 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.26
+Jun 27, 2011 8:30:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Jun 27, 2011 8:30:18 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-43055
+Jun 27, 2011 8:30:18 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 195 ms
